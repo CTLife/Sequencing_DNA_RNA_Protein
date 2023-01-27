@@ -1,2 +1,2 @@
 # Sequencing_DNA_RNA_Protein
-High-Throughput Sequencing for DNA, RNA, and Protein
+## Scripts for high-throughput sequencing data analysis by integrating lots of open-source tools.
