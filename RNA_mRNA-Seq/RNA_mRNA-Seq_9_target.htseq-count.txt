@@ -1,0 +1,10 @@
+label	files	group
+si7SK_1	final.HCT116-mRNA-seq-si7sk-1.htseq-count	si7SK
+si7SK_2	final.HCT116-mRNA-seq-si7sk-2.htseq-count	si7SK
+si7SK_3	final.HCT116-mRNA-seq-si7sk-3.htseq-count	si7SK
+siCtrl_1	final.HCT116-mRNA-seq-sicon-1.htseq-count	siCtrl
+siCtrl_2	final.HCT116-mRNA-seq-sicon-2.htseq-count	siCtrl
+siCtrl_3	final.HCT116-mRNA-seq-sicon-3.htseq-count	siCtrl
+siPUS7_1	final.HCT116-mRNA-seq-sipus7-1.htseq-count	siPUS7
+siPUS7_2	final.HCT116-mRNA-seq-sipus7-2.htseq-count	siPUS7
+siPUS7_3	final.HCT116-mRNA-seq-sipus7-3.htseq-count	siPUS7
