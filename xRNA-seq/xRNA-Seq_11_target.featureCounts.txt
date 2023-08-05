@@ -1,0 +1,13 @@
+label	files	group
+B1	final.library95-h-B-1.featureCounts	B
+B2	final.library96-h-B-2.featureCounts	B
+B3	final.library97-h-B-3.featureCounts	B
+T1	final.library117-h-T-1.featureCounts	T
+T2	final.library118-h-T-2.featureCounts	T
+T3	final.library98-h-T-3.featureCounts	T
+NK1	final.library119-h-NK-1.featureCounts	NK
+NK2	final.library94-h-NK-2.featureCounts	NK
+NK3	final.library99-h-NK-3.featureCounts	NK
+H1	final.library104-H-1.featureCounts	H
+H2	final.library105-H-2.featureCounts	H
+H3	final.library106-H-3.featureCounts	H

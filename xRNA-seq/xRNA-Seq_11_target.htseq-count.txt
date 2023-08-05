@@ -1,0 +1,13 @@
+label	files	group
+B1	library95-h-B-1.htseq-count	B
+B2	library96-h-B-2.htseq-count	B
+B3	library97-h-B-3.htseq-count	B
+T1	library117-h-T-1.htseq-count	T
+T2	library118-h-T-2.htseq-count	T
+T3	library98-h-T-3.htseq-count	T
+NK1	library119-h-NK-1.htseq-count	NK
+NK2	library94-h-NK-2.htseq-count	NK
+NK3	library99-h-NK-3.htseq-count	NK
+H1	library104-H-1.htseq-count	H
+H2	library105-H-2.htseq-count	H
+H3	library106-H-3.htseq-count	H
